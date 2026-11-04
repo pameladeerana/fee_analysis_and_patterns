@@ -34,7 +34,7 @@ Daily / block change of base fee between consecutive blocks. Uses window functio
   - Part 2 - First Transaction Per Wallet: https://dune.com/queries/9056625
   - Part 3 - EIP-1559 Fee Breakdown: https://dune.com/queries/9057825
   - Part 4 - 3-Block Rolling Average Gas Price: https://dune.com/queries/9061567
-  - Part 5 - Base Fee Change Between Consecutive Blocks: https://dune.com/queries/9063287
+  - Part 5 - Base Fee Change Between Consecutive Days: https://dune.com/queries/9063287
 - **Dune Dashboard**: https://dune.com/pameladeerana/fee-analysis-and-patterns
 
 ## 4. Data Coverage
