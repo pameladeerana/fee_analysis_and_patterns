@@ -51,4 +51,4 @@ Daily / block change of base fee between consecutive blocks. Uses window functio
 
 ## Author
 
-Pamela Dee E. Rana
+Pamela Dee Elegio Rana
