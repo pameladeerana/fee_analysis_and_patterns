@@ -29,7 +29,7 @@ Daily / block change of base fee between consecutive blocks. Uses window functio
 ## 3. Files
 
 - **README.md** - Project overview.
-- **Dune Queries**
+- **Dune Queries and Results**
   - Part 1 - ETH Value Transferred Per Sender: https://dune.com/queries/9054921
   - Part 2 - First Transaction Per Wallet: https://dune.com/queries/9056625
   - Part 3 - EIP-1559 Fee Breakdown: https://dune.com/queries/9057825
